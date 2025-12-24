@@ -112,6 +112,3 @@ GitHub: https://github.com/Nihaal122
 
 ---
 
-## 📌 Resume Description (Copy-Paste)
-
-> Performed exploratory data analysis on a real-world car features and pricing dataset using Python to uncover trends and relationships between vehicle specifications, fuel efficiency, and MSRP through data cleaning and visualization.
